@@ -1,3 +1,3 @@
 # tiny web - KAMITOM CSW
 
-#### @copy 2020
+#### ©2020
