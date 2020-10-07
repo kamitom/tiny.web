@@ -25,6 +25,8 @@
 * Cisco Networking
 * VLAN
 * NAS Storage
+* Gitlab
+* SVN 
 
 > Enterprise
 * ERP
@@ -34,8 +36,7 @@
 
 > Virtualize
 * VMware ESXi
-* Gitlab Establish
-* SVN
+* Gitlab in Docker
 * AD Domain
 
 
