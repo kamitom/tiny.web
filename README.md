@@ -27,6 +27,7 @@
 * NAS Storage
 * Gitlab
 * SVN 
+* AD Domain
 
 > Enterprise
 * ERP
@@ -37,7 +38,6 @@
 > Virtualize
 * VMware ESXi
 * Gitlab in Docker
-* AD Domain
 
 
 #### ©2020
