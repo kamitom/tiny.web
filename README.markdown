@@ -1,6 +1,8 @@
 # tiny web - KAMITOM CSW
 
-### Resume
+[my test personal site](https://kamitom.github.io/tiny.web/)
+
+### Skill list
 
 > 我使用過的技術如下:
 
