@@ -11,7 +11,13 @@
     /* background-color: powderblue; */
   }
 
+  h1, h3 {
+    color: #66bfbf;
+  }
+
   hr {
+    /* border-style: dotted none none; */
+    /* height: 2px; */
 
     border-style: none;
     border-top-style: dotted;
