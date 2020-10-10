@@ -1,15 +1,29 @@
-
-
 /* img {
     background-color: #ffa5a5;
 } */
 
-
 /****  CLASS SELECTOR ****/
 .bacon {
-    background-color: #a5ecd7;
+  background-color: #a5ecd7;
 }
 
 .broccoli {
-    background-color: #fe7171;
+  background-color: #fe7171;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  /* border: 3px solid orangered; */
+  padding: 10px;
+}
+
+/* ID SELECTOR */
+#heading {
+  color: #00587a;
 }
