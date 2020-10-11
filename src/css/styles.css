@@ -23,6 +23,14 @@
   padding: 10px;
 }
 
+.sentences {
+  color: #00587a
+}
+
+.fit-pic {
+  width: 20%;
+}
+
 /* ID SELECTOR */
 #heading {
   color: #00587a;
